@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "inventory management",
+  "main": "bamazonCustomers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/branvh/bamazon.git"
+  },
+  "author": "brandon van heyde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/branvh/bamazon/issues"
+  },
+  "homepage": "https://github.com/branvh/bamazon#readme"
+}
